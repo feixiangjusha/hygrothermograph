@@ -1,0 +1,2 @@
+# hygrothermograph
+温湿度计，温湿度传感器采用ti的hdc1050和hdc1000，mcu采用stm8的低功耗版本stm8l101
